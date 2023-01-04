@@ -1,0 +1,67 @@
+.generalnavigation {
+    /* background-image: url('../Image/amelia.jpg'); */
+    background-image: url('../Images/map1.png');
+    background-size:  100%;
+    width: 1370px;
+    height: 665px;
+    position: relative;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+
+
+/* .foods {
+    width: 50px;
+} */
+.bar {
+    background-image: url('../Images/world2.jpg');
+background-color: grey;
+color: white;
+display: flex;
+width: 100%;
+height: 40px;
+justify-content: space-between;
+align-items: center;
+font-family:'Courier New', Courier, monospace;
+}
+
+.inputpage {
+    /* width: 20px; */
+  
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.button {
+    
+   
+   
+    color:  rgb(83, 81, 81);
+    text-align: center;
+   border:1px solid rgb(83, 81, 81);
+   font-family:'Courier New', Courier, monospace;
+   
+}
+.button:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+}
+.button2 {
+    /* background: transparent; */
+    background-color: rgba(0, 0, 0, 0.425);
+    border-radius: 8px;
+    border: 2px solid white;
+    color: white;
+    /* text-align: center; */
+    /* display: inline-block;
+    position: absolute;
+    top: 450px;
+    left: 650px; */
+    font-size: medium;
+    font-family:'Courier New', Courier, monospace;
+}
+.button2:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+    font-family:'Courier New', Courier, monospace;
+}

@@ -1,0 +1,38 @@
+.generallanding {
+    background-image: url('../Images/map1.png');
+    background-repeat: no-repeat ;
+    background-size:  100%;
+    width: 1450px;;
+    height:850px;
+}
+
+.aobcountries {
+    color:#d3a409ea;
+    font-size: 70px;
+    background-color: rgba(0, 0, 0, 0.514);
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    border-radius: 10px;
+    
+    font-family:'Courier New', Courier, monospace;
+}
+
+.Entrar {
+    /* background: transparent; */
+    background-color: rgba(0, 0, 0, 0.425);
+    border-radius: 8px;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 450px;
+    left: 650px;
+    font-size: medium;
+}
+.Entrar:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+}

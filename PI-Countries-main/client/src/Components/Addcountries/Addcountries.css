@@ -1,0 +1,73 @@
+.buttoncountry{
+    background: transparent;
+    border-radius: 8px;
+    border: 1px solid white;
+    color:  #d3a409ea;
+    text-align: center;
+   
+   
+    font-size: x-small;
+}
+.buttoncountry:hover {
+    background-color: rgb(199, 9, 9);
+    color: rgb(247, 246, 246);
+}
+
+.generaldetail {
+    /* background-image: url('../Image/kitchen2.jpeg'); */
+    /* background-image: url('../Images/map1.png'); */
+    /* background-size:  100%; */
+    width: auto;
+    height: auto;
+    position: relative;
+    color: #d3a409ea;
+    
+}
+/* .detailimg2{
+    
+    color: white;
+    width: 150px;
+    height: 100px;
+    
+    
+    } */
+.container {
+    /* background-image: url('../Image/kitchen2.jpeg'); */
+    
+    width: auto;
+    height: auto;
+    position: relative;
+    color: #d3a409ea;
+   
+    border-radius: 1px;
+    
+}
+
+/* .foods {
+    width: 50px;
+} */
+.bar {
+background-color: grey;
+color: white;
+display: flex;
+width: 100%;
+height: 40px;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.buttonhomed {
+    background: transparent;
+    border-radius: 8px;
+    border: 2px solid white;
+    color:  #d3a409ea;
+    text-align: center;
+   
+   
+    font-size: medium;
+}
+.buttonhomed:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+}

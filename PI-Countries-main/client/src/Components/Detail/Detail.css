@@ -1,0 +1,86 @@
+.generalfordetails {
+    background-image: url('../Images/map1.png');
+    background-repeat: no-repeat ;
+    background-size:  100%;
+    width: 1450px;;
+    height:850px;
+    display: flex;
+    justify-content: space-evenly;
+   
+    flex-wrap: wrap;
+}
+
+.activitycard {
+    background-color: rgba(0, 0, 0, 0.514);
+    color: #d3a409ea;
+    flex-direction: row;
+    border-radius: 10px;
+    width: 100px;
+    height: 170px;
+    position: relative;
+    padding: 20px;
+    display: inline;
+    justify-content:center;
+    
+    
+    
+}
+.activitiesdisplays {
+    display: inline-flex;
+    justify-content:left;
+    align-items:flex-start;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    top: 70px;
+    right: 300px;
+    width: 600px;
+    height: 580px;
+    
+    color: #d3a409ea;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 10px;
+    position: relative;
+   
+}
+.generaldetails {  
+    /* background-image: url('../Image/kitchen2.jpeg'); */
+    background-image: url('../Images/map1.png');
+    /* background-size:  100%; */
+    width: 1370px;
+    height: 2500px;
+    position: relative;
+    /* background-repeat: no-repeat ; */
+}
+.detailimg2{
+    color: white;
+    width: 150px;
+    height: 100px;
+    }
+.containerdetail {
+    /* background-image: url('../Image/kitchen2.jpeg'); */
+    top: 70px;
+    left: 4px;
+    width: 300px;
+    height: 600px;
+    position: relative;
+    color: #d3a409ea;
+    background-color: rgba(0, 0, 0, 0.514);
+    border-radius: 10px;
+    
+}
+
+.buttonhomed {
+    background: transparent;
+    border-radius: 8px;
+    border: 2px solid white;
+    color:  #d3a409ea;
+    text-align: center;
+   
+   
+    font-size: medium;
+}
+.buttonhomed:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+}

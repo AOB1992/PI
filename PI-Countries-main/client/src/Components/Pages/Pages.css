@@ -1,0 +1,35 @@
+.generalpages{
+    /* background-image: url('../Images/map1.png'); */
+    padding: 1px;
+    flex-direction: column;
+    border-radius: 5px;
+    position: relative;
+}
+.pagescontainer{
+    /* background-image: url('../Images/map1.png'); */
+    display: flex;
+    justify-content: space-evenly;
+   
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+
+
+.pagebutton {
+    /* background: transparent; */
+    background-color: rgba(0, 0, 0, 0.425);
+    border-radius: 8px;
+    border: 2px solid white;
+    color: white;
+    /* text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 450px;
+    left: 650px; */
+    font-size: medium;
+}
+.pagebutton:hover {
+    background-color: white;
+    color: rgb(83, 81, 81);
+}
